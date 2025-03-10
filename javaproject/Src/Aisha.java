@@ -21,6 +21,8 @@ class Aisha{
             
             System.out.println("Largest no is" + c);
             System.out.println("Largest no is(Testing)" + c);
+            System.out.println("Largest no is" + c);
+            System.out.println("Largest no is(Testing)" + c);
              }   
             
      }
