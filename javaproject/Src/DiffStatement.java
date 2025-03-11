@@ -18,5 +18,6 @@ public class DiffStatement{
 
         }
         System.out.println("Aisha is a good boy");
+        System.out.println("Aisha is a bad girl");
     }
 }
